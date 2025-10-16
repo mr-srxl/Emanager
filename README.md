@@ -105,7 +105,7 @@ Emanger uses a staging system for safety. Changes to **hosts** and **exports** a
   # Example: export LHOST=10.10.14.2
   ```
 
-![[help_1.png]]
+![](help_1.png)
 ### Managing Notes (Instantly Saved)
 
 - **Add a note:**
