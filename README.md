@@ -55,8 +55,7 @@ cd Emanager
 ```bash
 emanager
 ```
-![[all_setup.png]]
-
+![](all_setup.png)
 
 ---
 
@@ -125,8 +124,8 @@ The `print` command displays a numbered list of all entries. Use the correspondi
   del <NUMBER>
   # Example: del 3
  ```
-![[help_2.png]]
 
+![](help_2.png)
 
 
 - **Bulk delete all staged exports:**
